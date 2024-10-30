@@ -1356,7 +1356,7 @@
 				"pagePath": "pages/tabBar/component/component",
 				"iconPath": "static/component.png",
 				"selectedIconPath": "static/componentHL.png",
-				"text": "内置组件"
+				"text": "test"
 			},
 			{
 				"pagePath": "pages/tabBar/API/API",
